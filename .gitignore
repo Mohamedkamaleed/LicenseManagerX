@@ -52,3 +52,5 @@ LicenseManager_12noon.Package/Package.StoreAssociation.xml
 LicenseManager_12noon.Package/Screenshots/
 STORE/
 devtools/*.zip
+config.bat
+node_modules
